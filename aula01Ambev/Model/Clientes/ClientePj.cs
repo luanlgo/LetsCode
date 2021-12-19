@@ -1,8 +1,6 @@
-using System;
-
-namespace aula01Ambev.Model
+namespace aula01Ambev.Model.Clientes
 {
-    public class ClientePj : Pessoa
+    public class ClientePj : ClienteBase
     {
         public override void VerificaDocumento(string documento)
         {
@@ -12,5 +10,4 @@ namespace aula01Ambev.Model
             }
         }
     }
-
 }

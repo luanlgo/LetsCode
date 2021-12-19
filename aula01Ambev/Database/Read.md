@@ -1,0 +1,1 @@
+Essa pasta mantem arquivos para imitar o Entity framework.
