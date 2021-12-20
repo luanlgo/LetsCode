@@ -3,4 +3,4 @@
 - Eduardo Gabriel Wehrmeister
 - Patrícia Selpa
 - Luana Sales
-- Luan
+- Luan Gomes Milano
