@@ -1,5 +1,7 @@
-Adicionar as paradas que o professor pediu
-
-
-Nomes:
-Patrícia S.
+## Nomes:
+- Ivo Paulo
+- Eduardo Wehrmeister
+- Patrícia Selpa
+- Luana Sales
+- ..
+- ..
