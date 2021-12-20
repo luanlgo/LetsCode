@@ -1,7 +1,6 @@
 ## Nomes:
 - Ivo Paulo
-- Eduardo Wehrmeister
+- Eduardo Gabriel Wehrmeister
 - Patrícia Selpa
 - Luana Sales
-- ..
-- ..
+- Luan
